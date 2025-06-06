@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dao Pham (Dean)</h1>
-<h3 align="center">A software developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Dao Pham (you can call me Dean)</h1>
+<h3 align="center">A software builder</h3>
 
 - 📫 How to reach me **daopm.dean@gmail.com**
 - Or visit <a href="https://phamminhdao.com" target="blank">phamminhdao.com</a>
